@@ -1,5 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
 #Thu Aug 16 18:47:53 CEST 2012
-gcm-server-1.0.2-sources.jar>=
-gcm-server-1.0.2.pom>=
-gcm-server-1.0.2.jar>=
+plexus-utils-2.0.5.pom>nexus-public=
+plexus-utils-2.0.5.jar>nexus-public=
