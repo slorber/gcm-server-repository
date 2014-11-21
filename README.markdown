@@ -12,7 +12,7 @@ Add the repository to your maven configuration:
 
     <repository>
         <id>gcm-server-repository</id>
-        <url>https://raw.github.com/slorber/gcm-server-repository/master/releases/</url>
+        <url>https://raw.githubusercontent.com/slorber/gcm-server-repository/master/releases/</url>
     </repository>
 
 And then add the dependency
